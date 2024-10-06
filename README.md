@@ -3,18 +3,18 @@
 I'm a student of [42](https://42.fr/en/network-42/), Florence. Apart from that, I am a seasonal cryptanalyst and I love contributing to open source.
 
 **My Research Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
+- Encryption
+- Cybersecurity
+- Robotics
 - Anomaly Detection
-- Similarity Measure
+- Blockchain
 
  **I am open to**:
 
-- any collaboration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become a reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- any collaboration work
+- robotics projects (development or research)
+- research internships
+- available to become a reviewer for Data mining journals or conferences.
 
 ## Skills:
 
