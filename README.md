@@ -1,4 +1,4 @@
-### Hi there, I'm [Bug Catcher](https://durgeshsamariya.github.io](https://github.com/buggcatcher) 👋
+### Hi there, I'm [Bug Catcher](https://github.com/buggcatcher) 👋
 
 I completed my PhD in Machine Learning from [Federation University](https://federation.edu.au), Australia. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
 
