@@ -1,6 +1,6 @@
 ### Hi there, I'm [Bug Catcher](https://github.com/buggcatcher) 👋
 
-I'm a student of [42](https://42.fr/en/network-42/), Florence. Apart from that, I am a seasonal cryptanalyst and I love contributing to open source.
+I'm a student of [42](https://youtu.be/7gWlz_nhPJk), Florence. Apart from that, I am a seasonal cryptanalyst and I love contributing to open source.
 
 **My Research Interest**:
 - Encryption
