@@ -14,7 +14,6 @@ I'm a student of [42](https://42.fr/en/network-42/), Florence. Apart from that, 
 - any collaboration work
 - robotics projects (development or research)
 - research internships
-- available to become a reviewer for Data mining journals or conferences.
 
 ## Skills:
 
