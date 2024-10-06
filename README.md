@@ -41,10 +41,7 @@ I'm a student of [42](https://42.fr/en/network-42/), Florence. Apart from that, 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 
-
-| <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact" alt="buggcatcher" />
- |
-| ------------- | ------------- |
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact" alt="buggcatcher" />
 
 ## Connect with me:
 
