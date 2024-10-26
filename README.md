@@ -2,7 +2,7 @@
 
 I'm a student of [42](https://youtu.be/7gWlz_nhPJk), Florence. Apart from that, I am a seasonal cryptanalyst and I love contributing to open source.
 
-## [Go to my repositories](https://github.com/buggcatcher?tab=repositories)
+[Go to my repositories](https://github.com/buggcatcher?tab=repositories)
 
 **My Research Interest**:
 - Encryption
