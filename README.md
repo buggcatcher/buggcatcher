@@ -73,9 +73,9 @@
 [![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@scriptamanent@poliversity.it)
 
 </td>
-![Wallpaper](https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true)
 </tr>
 </table>
+![Wallpaper](https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true)
 
 <!-- 
 ----
