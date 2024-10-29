@@ -2,7 +2,7 @@
 <tr>
 <td width="50%">
 
-### [Bug Catcher](https://github.com/buggcatcher
+### [Bug Catcher](https://github.com/buggcatcher)
 
 Student of [42](https://youtu.be/7gWlz_nhPJk), Florence.   
 Click here to [go to my repositories](https://github.com/buggcatcher?tab=repositories)
@@ -19,6 +19,8 @@ Click here to [go to my repositories](https://github.com/buggcatcher?tab=reposit
 - 🔧 robotics projects (development or research)
 - 🎓 research internships
 
+
+  
 ### Connect with me:
 [![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@scriptamanent@poliversity.it)
 
