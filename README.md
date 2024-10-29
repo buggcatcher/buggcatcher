@@ -11,7 +11,7 @@ Click [here](https://github.com/buggcatcher?tab=repositories) go to my repositor
   
   🔐 **Encryption & Cryptography**
   - 🔑 Symmetric & Asymmetric Encryption
-  - 🌐 PKI Infrastructure & Digital Signatures
+  - 🖼️ Steganography & Digital Signatures
   - 🔒 Zero-Knowledge Proofs
   - 🛡️ Hash Functions & MAC
 
