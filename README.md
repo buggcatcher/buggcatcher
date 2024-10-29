@@ -41,7 +41,6 @@ Click here to [go to my repositories](https://github.com/buggcatcher?tab=reposit
 </td>
 <td width="50%">
 
-## Skills
 
 ### Languages:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
