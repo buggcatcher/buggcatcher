@@ -2,19 +2,19 @@
 <tr>
 <td width="50%">
 
-### Hi there, I'm [Bug Catcher](https://github.com/buggcatcher) 👋
+### [Bug Catcher](https://github.com/buggcatcher
 
-I'm a student of [42](https://youtu.be/7gWlz_nhPJk), Florence.   
+Student of [42](https://youtu.be/7gWlz_nhPJk), Florence.   
 Click here to [go to my repositories](https://github.com/buggcatcher?tab=repositories)
 
-**My Research Interest**:
+**Research Interest**:
 - 🔐 Encryption
 - 🛡️ Cybersecurity
 - 🤖 Robotics
 - 📊 Anomaly Detection
 - ⛓️ Blockchain
 
-**I am open to**:
+**Open to**:
 - 💡 any collaboration work
 - 🔧 robotics projects (development or research)
 - 🎓 research internships
