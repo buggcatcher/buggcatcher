@@ -56,14 +56,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Default Theme" />
 
-
+    
     
 **Open to**:
 - 💡 any collaboration work
 - 🔧 robotics projects
 - 🎓 research internships
-- 🧑‍💼 dev job opportunities 
-- 🧩 cryptography sessions
+- 🧑‍💼 job opportunities 
 - 🚀 startup collaborations
 
 ### Connect with me:
