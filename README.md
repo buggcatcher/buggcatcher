@@ -4,7 +4,8 @@
 
 ### Hi there, I'm [Bug Catcher](https://github.com/buggcatcher) 👋
 
-I'm a student of [42](https://youtu.be/7gWlz_nhPJk), Florence. Click here to [go to my repositories](https://github.com/buggcatcher?tab=repositories)
+I'm a student of [42](https://youtu.be/7gWlz_nhPJk), Florence.   
+Click here to [go to my repositories](https://github.com/buggcatcher?tab=repositories)
 
 **My Research Interest**:
 - 🔐 Encryption
