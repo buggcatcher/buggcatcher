@@ -18,7 +18,9 @@ Click here to [go to my repositories](https://github.com/buggcatcher?tab=reposit
 - 💡 any collaboration work
 - 🔧 robotics projects (development or research)
 - 🎓 research internships
-
+  
+  
+----
 
   
 ### Connect with me:
