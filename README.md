@@ -3,6 +3,7 @@
 <td width="50%">
 
 ![Bug Catcher Image](https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true)  
+Student of [42](https://youtu.be/7gWlz_nhPJk), Florence.  
 Click [here](https://github.com/buggcatcher?tab=repositories) go to my repositories.
 
               
