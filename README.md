@@ -2,7 +2,7 @@
 <tr>
 <td width="60%">
 
-### [Bug Catcher](https://github.com/buggcatcher)
+![Bug Catcher Image](https://raw.githubusercontent.com/buggcatcher/BOX/main/bugcatcher.png)
 
 Student of [42](https://youtu.be/7gWlz_nhPJk), Florence.   
 Click [here](https://github.com/buggcatcher?tab=repositories) go to my repositories.
