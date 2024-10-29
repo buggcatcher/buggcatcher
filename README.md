@@ -18,6 +18,9 @@ I'm a student of [42](https://youtu.be/7gWlz_nhPJk), Florence. Click here to [go
 - 🔧 robotics projects (development or research)
 - 🎓 research internships
 
+### Most Used Languages:
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=dark" alt="buggcatcher" />
+
 ### Connect with me:
 [![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@scriptamanent@poliversity.it)
 
@@ -41,9 +44,6 @@ I'm a student of [42](https://youtu.be/7gWlz_nhPJk), Florence. Click here to [go
 ### IDEs:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
-
-### Most Used Languages:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=dark" alt="buggcatcher" />
 
 </td>
 </tr>
