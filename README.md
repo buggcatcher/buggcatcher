@@ -5,13 +5,15 @@
 ![Bug Catcher Image](https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true)  
 Click [here](https://github.com/buggcatcher?tab=repositories) go to my repositories.
 
+----
+
+    
 ### My Research Interest:
 
   🔐 **Encryption & Cryptography**
   - 🔑 Symmetric & Asymmetric Encryption
   - 🖼️ Steganography & Digital Signatures
   - 🔒 Zero-Knowledge Proofs
-  - 🛡️ Hash Functions & MAC
 
   🔍 **Metadata Analysis**
   - 📊 Data Pattern Recognition
