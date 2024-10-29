@@ -62,10 +62,9 @@
 - 💡 any collaboration work
 - 🔧 robotics projects
 - 🎓 research internships
-
-----
-----
-----
+- 🧑‍💼 dev job opportunities 
+- 🧩 cryptography sessions
+- 🚀 startup collaborations
 
 ### Connect with me:
 [![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@scriptamanent@poliversity.it)
