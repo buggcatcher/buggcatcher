@@ -54,7 +54,7 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 
 ### Most Used Languages:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=dark" alt="buggcatcher" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=radical" alt="buggcatcher" />
 
     
 **Open to**:
