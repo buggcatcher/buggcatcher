@@ -4,9 +4,9 @@
 
 ![Bug Catcher Image](https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true)  
 
-  
+
 ### My Research Interest:
-  
+
   🔐 **Encryption & Cryptography**
   - 🔑 Symmetric & Asymmetric Encryption
   - 🖼️ Steganography & Digital Signatures
@@ -20,12 +20,15 @@
   - 📈 Behavioral Analytics
 
   🤖 **Robotics & Automation**
+  - 🦾 ROS Framework
+  - 🧠 Machine Learning Integration
   - 🎛️ Control Systems
   - 🧠 Machine Learning Integration
   - 📡 Sensor Fusion
 
   ⛓️ **Blockchain Technology**
   - 📦 Smart Contracts
+  - 🔗 DLT Architecture
   - 🔏 Consensus Mechanisms
   - 🌍 Distributed Systems
 
@@ -58,8 +61,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Default Theme" />
 
-    
-    
+
+
 **Open to**:
 - 💡 any collaboration work
 - 🔧 robotics projects
@@ -67,16 +70,15 @@
 - 🧑‍💼 job opportunities 
 - 🚀 startup collaborations
 
+### Connect with me:
+[![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@scriptamanent@poliversity.it)
+
 </td>
 </tr>
 <!-- New row for the image -->
 <tr>
 <td colspan="2" align="center">
   <img src="https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true" alt="Pixel Art Wallpaper" width="100%" />
-</td>
-  <td colspan="2" align="center">
-  ### Connect with me:
-[![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@scriptamanent@poliversity.it)
 </td>
 </tr>
 </table>
@@ -87,15 +89,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
-
-<!--
-**themlphdstudent/themlphdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
