@@ -75,7 +75,7 @@
 </td>
 </tr>
 </table>
-![Wallpaper](https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true)
+![Wallpaper](https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?)
 
 <!-- 
 ----
