@@ -8,27 +8,27 @@ Student of [42](https://youtu.be/7gWlz_nhPJk), Florence.
 Click here to [go to my repositories](https://github.com/buggcatcher?tab=repositories)
 
 **My Research Interest**:
-- 🔐 **Encryption & Cryptography**
+  🔐 **Encryption & Cryptography**
   - 🔑 Symmetric & Asymmetric Encryption
   - 🌐 PKI Infrastructure & Digital Signatures
   - 🔒 Zero-Knowledge Proofs
   - 🎲 Quantum-Resistant Algorithms
   - 🛡️ Hash Functions & MAC
 
-- 🔍 **Metadata Analysis**
+  🔍 **Metadata Analysis**
   - 📊 Data Pattern Recognition
   - 🎯 Anomaly Detection Systems
   - 🗃️ Digital Forensics
   - 📈 Behavioral Analytics
   - 🔄 Metadata Extraction & Processing
 
-- 🤖 **Robotics & Automation**
+  🤖 **Robotics & Automation**
   - 🦾 ROS Framework
   - 🧠 Machine Learning Integration
   - 🎛️ Control Systems
   - 📡 Sensor Fusion
 
-- ⛓️ **Blockchain Technology**
+  ⛓️ **Blockchain Technology**
   - 📦 Smart Contracts
   - 🔗 DLT Architecture
   - 🔏 Consensus Mechanisms
@@ -38,13 +38,7 @@ Click here to [go to my repositories](https://github.com/buggcatcher?tab=reposit
 - 💡 any collaboration work
 - 🔧 robotics projects development
 - 🎓 research internships
-  
-  
-----
 
-  
-### Connect with me:
-[![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@scriptamanent@poliversity.it)
 
 </td>
 <td width="50%">
@@ -69,6 +63,9 @@ Click here to [go to my repositories](https://github.com/buggcatcher?tab=reposit
 
 ### Most Used Languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=dark" alt="buggcatcher" />
+
+### Connect with me:
+[![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@scriptamanent@poliversity.it)
 
 </td>
 </tr>
