@@ -5,7 +5,7 @@
 ### [Bug Catcher](https://github.com/buggcatcher)
 
 Student of [42](https://youtu.be/7gWlz_nhPJk), Florence.   
-Click here to [here](https://github.com/buggcatcher?tab=repositories) go to my repositories.
+Click [here](https://github.com/buggcatcher?tab=repositories) go to my repositories.
   
 ### My Research Interest:
   
