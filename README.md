@@ -34,10 +34,7 @@ Click here to [go to my repositories](https://github.com/buggcatcher?tab=reposit
   - 🔏 Consensus Mechanisms
   - 🌍 Distributed Systems
 
-**Open to**:
-- 💡 any collaboration work
-- 🔧 robotics projects development
-- 🎓 research internships
+
 
 
 </td>
@@ -63,6 +60,11 @@ Click here to [go to my repositories](https://github.com/buggcatcher?tab=reposit
 
 ### Most Used Languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=dark" alt="buggcatcher" />
+
+**Open to**:
+- 💡 any collaboration work
+- 🔧 robotics projects development
+- 🎓 research internships
 
 ### Connect with me:
 [![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@scriptamanent@poliversity.it)
