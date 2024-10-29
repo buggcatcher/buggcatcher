@@ -74,7 +74,7 @@
 <td colspan="2" align="center">
   <img src="https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true" alt="Pixel Art Wallpaper" width="100%" />
 </td>
-  <td colspan="3" align="center">
+  <td colspan="2" align="center">
   ### Connect with me:
 [![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@scriptamanent@poliversity.it)
 </td>
