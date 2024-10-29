@@ -20,7 +20,6 @@ Click [here](https://github.com/buggcatcher?tab=repositories) go to my repositor
   - 🎯 Anomaly Detection Systems
   - 🗃️ Digital Forensics
   - 📈 Behavioral Analytics
-  - 🔄 Metadata Extraction & Processing
 
   🤖 **Robotics & Automation**
   - 🦾 ROS Framework
