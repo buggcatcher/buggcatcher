@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
 ### [Bug Catcher](https://github.com/buggcatcher)
 
