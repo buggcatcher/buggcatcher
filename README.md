@@ -7,12 +7,32 @@
 Student of [42](https://youtu.be/7gWlz_nhPJk), Florence.   
 Click here to [go to my repositories](https://github.com/buggcatcher?tab=repositories)
 
-**Research Interest**:
-- 🔐 Encryption
-- 🛡️ Cybersecurity
-- 🤖 Robotics
-- 📊 Anomaly Detection
-- ⛓️ Blockchain
+**My Research Interest**:
+- 🔐 **Encryption & Cryptography**
+  - 🔑 Symmetric & Asymmetric Encryption
+  - 🌐 PKI Infrastructure & Digital Signatures
+  - 🔒 Zero-Knowledge Proofs
+  - 🎲 Quantum-Resistant Algorithms
+  - 🛡️ Hash Functions & MAC
+
+- 🔍 **Metadata Analysis**
+  - 📊 Data Pattern Recognition
+  - 🎯 Anomaly Detection Systems
+  - 🗃️ Digital Forensics
+  - 📈 Behavioral Analytics
+  - 🔄 Metadata Extraction & Processing
+
+- 🤖 **Robotics & Automation**
+  - 🦾 ROS Framework
+  - 🧠 Machine Learning Integration
+  - 🎛️ Control Systems
+  - 📡 Sensor Fusion
+
+- ⛓️ **Blockchain Technology**
+  - 📦 Smart Contracts
+  - 🔗 DLT Architecture
+  - 🔏 Consensus Mechanisms
+  - 🌍 Distributed Systems
 
 **Open to**:
 - 💡 any collaboration work
