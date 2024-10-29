@@ -60,7 +60,8 @@ Click here to [go to my repositories](https://github.com/buggcatcher?tab=reposit
 
 ### Most Used Languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=dark" alt="buggcatcher" />
-  
+
+    
 **Open to**:
 - 💡 any collaboration work
 - 🔧 robotics projects development
