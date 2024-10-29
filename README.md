@@ -63,7 +63,7 @@ Click here to [go to my repositories](https://github.com/buggcatcher?tab=reposit
     
 **Open to**:
 - 💡 any collaboration work
-- 🔧 robotics projects development
+- 🔧 robotics projects
 - 🎓 research internships
 
 ### Connect with me:
