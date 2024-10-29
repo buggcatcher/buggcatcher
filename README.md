@@ -74,8 +74,9 @@
 
 </td>
 </tr>
-</table>
 ![Pixel Art Wallpaper](https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true)
+</table>
+
 <!-- 
 ----
 [<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
