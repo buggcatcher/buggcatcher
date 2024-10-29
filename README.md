@@ -13,7 +13,6 @@ Click here to [go to my repositories](https://github.com/buggcatcher?tab=reposit
   - 🔑 Symmetric & Asymmetric Encryption
   - 🌐 PKI Infrastructure & Digital Signatures
   - 🔒 Zero-Knowledge Proofs
-  - 🎲 Quantum-Resistant Algorithms
   - 🛡️ Hash Functions & MAC
 
   🔍 **Metadata Analysis**
