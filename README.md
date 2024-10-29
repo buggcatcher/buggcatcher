@@ -20,14 +20,12 @@
   - 📈 Behavioral Analytics
 
   🤖 **Robotics & Automation**
-  - 🦾 ROS Framework
-  - 🧠 Machine Learning Integration
   - 🎛️ Control Systems
+  - 🧠 Machine Learning Integration
   - 📡 Sensor Fusion
 
   ⛓️ **Blockchain Technology**
   - 📦 Smart Contracts
-  - 🔗 DLT Architecture
   - 🔏 Consensus Mechanisms
   - 🌍 Distributed Systems
 
