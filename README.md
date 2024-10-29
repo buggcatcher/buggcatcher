@@ -4,10 +4,6 @@
 
 ![Bug Catcher Image](https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true)  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=dark" alt="Dark Theme" />
-
-
-
   
 ### My Research Interest:
   
@@ -58,7 +54,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=dark" alt="Dark Theme" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Default Theme" />
+
+
 
 
 
