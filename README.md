@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 ![Bug Catcher Image](https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true)  
 
