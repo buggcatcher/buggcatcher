@@ -63,7 +63,7 @@ Click [here](https://github.com/buggcatcher?tab=repositories) for my repos
 
 
 
-**Open to**:
+### Open to:
 - 💡 any collaboration work
 - 🔧 robotics projects
 - 🎓 research internships
