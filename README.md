@@ -3,8 +3,9 @@
 <td width="50%">
 
 ![Bug Catcher Image](https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true)  
+### [Bug Catcher](https://github.com/buggcatcher)
 Student of [42](https://youtu.be/7gWlz_nhPJk), Florence  
-Click [here](https://github.com/buggcatcher?tab=repositories) go to my repositories  
+Click [here](https://github.com/buggcatcher?tab=repositories) for my repos  
 
               
 
