@@ -3,6 +3,9 @@
   <td width="50%">
 
 ![Bug Catcher Image](https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true)  
+  <td colspan="1" align="center" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Default Theme" />
+  </td>
 ### [Bug Catcher](https://images.nationalgeographic.org/image/upload/v1638888858/EducationHub/photos/computer-bug.jpg)
 Student of [42](https://youtu.be/7gWlz_nhPJk), Florence  
 Click [here](https://github.com/buggcatcher?tab=repositories) for my repos  
@@ -65,9 +68,7 @@ Click [here](https://github.com/buggcatcher?tab=repositories) for my repos
   <td colspan="1" align="center" width="50%">
     <img src="https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true" alt="Pixel Art Wallpaper" width="100%" />
   </td>
-  <td colspan="1" align="center" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Default Theme" />
-  </td>
+
 </tr>
 </table>
 
