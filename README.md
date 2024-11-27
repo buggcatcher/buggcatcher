@@ -7,7 +7,7 @@
       <br />
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Most Used Languages" />
     </td>
-    <td style="width: 50%; vertical-align: top; border: 1px solid #000; height: 75%;">
+    <td style="width: 50%; vertical-align: right; border: 1px solid #000; height: 75%;">
       <!-- Content for Right (Tools & Technologies) -->
       <h3>Tools and Technologies</h3>
       <p>Details about tools, languages, and technologies used</p>
