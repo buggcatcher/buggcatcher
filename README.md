@@ -1,5 +1,4 @@
 <table>
-  <!-- Top Section: Most Used Languages and Profile Image (Up Left) -->
   <tr>
     <td colspan="1" width="50%" align="left" valign="top">
       <table>
@@ -13,8 +12,6 @@
         </tr>
       </table>
     </td>
-
-    <!-- Top Right: Tools and Technologies -->
     <td colspan="1" width="50%" align="left" valign="top">
       <h3>Tools and Technologies:</h3>
       <p>
@@ -50,8 +47,6 @@
       </p>
     </td>
   </tr>
-
-  <!-- Middle Left: Research Interest -->
   <tr>
     <td colspan="1" align="left" valign="top" width="50%">
       <h3>Bug Catcher</h3>
@@ -86,13 +81,11 @@
       </ul>
     </td>
 
-    <!-- Middle Right: Leave blank -->
+    <!-- blank -->
     <td colspan="1" align="center" valign="top" width="50%">
-      <!-- Intentionally left blank -->
+      <!-- blank -->
     </td>
   </tr>
-
-  <!-- Bottom Section: Wide Nature Image -->
   <tr>
     <td colspan="2" align="center">
       <img src="https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true" alt="Pixel Art Wallpaper" width="100%" />
