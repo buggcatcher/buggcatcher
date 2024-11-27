@@ -1,7 +1,7 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 50%; vertical-align: top; border: 1px solid black;">
-      <!-- Content for Most Used Languages + Bug Catcher -->
+      <!-- Content for Most Used Languages + Bug Catcher Image -->
     </td>
     <td style="width: 50%; vertical-align: top; border: 1px solid black;">
       <!-- Content for Tools and Technologies -->
@@ -11,7 +11,8 @@
     <td style="width: 50%; vertical-align: top; border: 1px solid black;">
       <!-- Content for Research Interest -->
     </td>
-    <td style="width: 50%; border: 1px solid black;">
+    <td style="width: 50%; vertical-align: top; border: 1px solid black;">
+      <!-- Empty cell to align with Top Right -->
     </td>
   </tr>
   <tr>
