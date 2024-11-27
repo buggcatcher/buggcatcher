@@ -6,7 +6,7 @@
     <h3><a href="https://images.nationalgeographic.org/image/upload/v1638888858/EducationHub/photos/computer-bug.jpg">Bug Catcher</a></h3>
     Student of <a href="https://youtu.be/7gWlz_nhPJk">42</a>, Florence  
     Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos  
-    <li>My Research Interest:</strong>
+    <h3>My Research Interest:</h3>
     <ul>
       <li>🔐 <strong>Encryption & Cryptography</strong>
         <ul>
