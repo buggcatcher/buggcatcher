@@ -39,7 +39,13 @@
     <a href="https://mastodon.uno/@scriptamanent@poliversity.it">
       <img src="https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
      <br>
-      <img src="https://github.com/buggcatcher/BOX/blob/main/weedle.gif?raw=true" alt="Weedle" />  
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
+       <br>
        <br>
        <br>
        <br>
