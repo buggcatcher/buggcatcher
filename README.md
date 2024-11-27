@@ -6,19 +6,19 @@
       <h3><a href="https://images.nationalgeographic.org/image/upload/v1638888858/EducationHub/photos/computer-bug.jpg">Bug Catcher</a></h3>
       Student of <a href="https://www.42network.org/42-schools/">42</a>, Florence. Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos  
       <h3>My Research Interest:</h3>
-      <ul style="font-size: 14px;">
-        <lo>🔐 <strong>Encryption & Cryptography</strong></li>
-        <lo>🔍 <strong>Metadata Analysis</strong></li>
-        <lo>🤖 <strong>Robotics & Automation</strong></li>
-        <lo>⛓️ <strong>Blockchain Technology</strong></li>
+      <ol style="font-size: 14px;">
+        <li>🔐 <strong>Encryption & Cryptography</strong></li>
+        <li>🔍 <strong>Metadata Analysis</strong></li>
+        <li>🤖 <strong>Robotics & Automation</strong></li>
+        <li>⛓️ <strong>Blockchain Technology</strong></li>
       </ul>
       <h3>Open to:</h3>
-      <ul style="font-size: 14px;">
-        <lo>💡 Any collaboration work</li>
-        <lo>🔧 Robotics projects</li>
-        <lo>🎓 Research internships</li>
-        <lo>🧑‍💼 Job opportunities</li>
-        <lo>🚀 Startup collaborations</li>
+      <ol style="font-size: 14px;">
+        <li>💡 Any collaboration work</li>
+        <li>🔧 Robotics projects</li>
+        <li>🎓 Research internships</li>
+        <li>🧑‍💼 Job opportunities</li>
+        <li>🚀 Startup collaborations</li>
       </ul>
       <br>
     </td>
