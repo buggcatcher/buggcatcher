@@ -2,7 +2,6 @@
 <tr>
   <td width="60%" style="vertical-align: top;">
     <img src="https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true" alt="Bug Catcher" />  
-    <img src="https://github.com/buggcatcher/BOX/blob/main/weedle.gif?raw=true" alt="Weedle" />  
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" style="float: right; margin-right: 1px;"/>
     <h3><a href="https://images.nationalgeographic.org/image/upload/v1638888858/EducationHub/photos/computer-bug.jpg">Bug Catcher</a></h3>
     Student of <a href="https://www.42network.org/42-schools/">42</a>, Florence. Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos  
@@ -39,6 +38,12 @@
     <h3>Connect with me:</h3>
     <a href="https://mastodon.uno/@scriptamanent@poliversity.it">
       <img src="https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
+      <img src="https://github.com/buggcatcher/BOX/blob/main/weedle.gif?raw=true" alt="Weedle" />  
+     <br>
+       <br>
+       <br>
+       <br>
+       <br>
     </a>
   </td>
 </tr>
