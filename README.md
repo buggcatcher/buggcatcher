@@ -1,9 +1,8 @@
-<table>
+<table style="width: 100%; position: relative;">
 <tr>
   <td width="60%" style="vertical-align: top;">
     <img src="https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true" alt="Bug Catcher" />  
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" style="float: right; margin-right: 1px;"/>
-    <img src="https://github.com/buggcatcher/BOX/blob/main/weedle.gif?raw=true" alt="Weedle" />
     <h3><a href="https://images.nationalgeographic.org/image/upload/v1638888858/EducationHub/photos/computer-bug.jpg">Bug Catcher</a></h3>
     Student of <a href="https://www.42network.org/42-schools/">42</a>, Florence. Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos  
     <h3>My Research Interest:</h3>
@@ -23,7 +22,7 @@
     </ul>
     <br>
   </td>
-  <td width="40%">
+  <td width="40%" style="position: relative;">
     <h3>Tools and Technologies:</h3>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -46,14 +45,15 @@
     <br>
     <h3>Connect with me:</h3>
     <a href="https://mastodon.uno/@scriptamanent@poliversity.it">
-      <img src="https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
-      <br>
-       <br>
-        <br>
-        <br>
-       <br>
-      <br>
+      <div style="display: inline-block;">
+        <img src="https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
+      </div>
     </a>
+    <br>
+    <br>
+    <div style="position: absolute; bottom: 0; right: 0; margin: 10px;">
+      <img src="https://github.com/buggcatcher/BOX/blob/main/weedle.gif?raw=true" alt="Weedle" width="100px" />
+    </div>
   </td>
 </tr>
 <tr>
@@ -62,6 +62,7 @@
   </td>
 </tr>
 </table>
+
 
 
 
