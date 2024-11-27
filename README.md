@@ -81,9 +81,6 @@
           <li>🌍 Distributed Systems</li>
         </ul>
       </ul>
-    </td>
-    <td colspan="1" align="center" valign="top" width="50%">
-    </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
