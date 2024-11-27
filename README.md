@@ -1,27 +1,26 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 50%; vertical-align: top; border: 1px solid black;">
-      <!-- Content for Most Used Languages + Bug Catcher Image -->
+      <!-- Most Used Languages + Bug Catcher Image -->
     </td>
     <td style="width: 50%; vertical-align: top; border: 1px solid black;">
-      <!-- Content for Tools and Technologies -->
+      <!-- Tools and Technologies -->
     </td>
   </tr>
   <tr>
     <td style="width: 50%; vertical-align: top; border: 1px solid black;">
-      <!-- Content for Research Interest -->
+      <!-- Research Interest -->
     </td>
     <td style="width: 50%; vertical-align: top; border: 1px solid black;">
-      <!-- Empty cell to align with Top Right -->
+      <!-- Empty cell to align with Top Left and Middle Left -->
     </td>
   </tr>
   <tr>
     <td colspan="2" style="border: 1px solid black; text-align: center;">
-      <!-- Content for Pixel Art Wallpaper -->
+      <!-- Pixel Art Wallpaper -->
     </td>
   </tr>
 </table>
-
 
 
 
