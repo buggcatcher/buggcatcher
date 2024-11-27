@@ -1,7 +1,5 @@
 <table>
-  <!-- Top Row: Most Used Languages and Profile Image (Up Left) + Tools and Technologies (Up Right) -->
   <tr>
-    <!-- Up Left: Most Used Languages and Profile Image -->
     <td width="50%" align="center">
       <table>
         <tr>
@@ -14,28 +12,26 @@
         </tr>
       </table>
     </td>
-
-    <!-- Up Right: Tools and Technologies -->
     <td width="50%" align="left">
       <h3>Tools and Technologies:</h3>
       <p>
-        ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-        ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       </p>
       <h3>Database:</h3>
       <p>
-        ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-        ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
       <h3>IDEs:</h3>
       <p>
-        ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-        ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+        <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
       </p>
       <h3>Languages:</h3>
       <p>
-        ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-        ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
       </p>
       <h3>Open to:</h3>
       <ul>
@@ -47,12 +43,12 @@
       </ul>
       <h3>Connect with me:</h3>
       <p>
-        [![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@scriptamanent@poliversity.it)
+        <a href="https://mastodon.uno/@scriptamanent@poliversity.it">
+          <img src="https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
+        </a>
       </p>
     </td>
   </tr>
-
-  <!-- Middle Row: Research Interest -->
   <tr>
     <td colspan="1" align="left" valign="top" width="50%">
       <h3>Bug Catcher</h3>
@@ -86,20 +82,16 @@
         </ul>
       </ul>
     </td>
-
-    <!-- Middle Right: Leave blank -->
     <td colspan="1" align="center" valign="top" width="50%">
-      <!-- Intentionally left blank -->
     </td>
   </tr>
-
-  <!-- Bottom Section: Wide Nature Image -->
   <tr>
     <td colspan="2" align="center">
       <img src="https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true" alt="Pixel Art Wallpaper" width="100%" />
     </td>
   </tr>
 </table>
+
 
 
 <!-- 
