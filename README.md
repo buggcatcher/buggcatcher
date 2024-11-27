@@ -1,15 +1,36 @@
 <table>
-  <!-- Top Section: Profile and Most Used Languages on the left, Tools and Technologies on the right -->
-  <tr>
-    <!-- Left Column: Profile Image + Most Used Languages -->
-    <td width="50%" align="center">
-      <img src="https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true" alt="Bug Catcher Image" width="120" />
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Most Used Languages" />
-    </td>
-    
-    <!-- Right Column: Tools and Technologies -->
-    <td width="50%">
+<tr>
+  <td width="50%">
+
+![Bug Catcher Image](https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true)  
+### [Bug Catcher](https://images.nationalgeographic.org/image/upload/v1638888858/EducationHub/photos/computer-bug.jpg)
+Student of [42](https://youtu.be/7gWlz_nhPJk), Florence  
+Click [here](https://github.com/buggcatcher?tab=repositories) for my repos  
+
+### My Research Interest:
+
+🔐 **Encryption & Cryptography**
+- 🔑 Symmetric & Asymmetric Encryption
+- 🖼️ Steganography & Digital Signatures
+- 🔒 Zero-Knowledge Proofs
+
+🔍 **Metadata Analysis**
+- 📊 Data Pattern Recognition
+- 🎯 Anomaly Detection Systems
+- 🗃️ Digital Forensics
+
+🤖 **Robotics & Automation**
+- 🎛️ Control Systems
+- 🧠 Machine Learning Integration
+- 📡 Sensor Fusion
+
+⛓️ **Blockchain Technology**
+- 📦 Smart Contracts
+- 🔏 Consensus Mechanisms
+- 🌍 Distributed Systems
+
+  </td>
+  <td width="50%">
 
 ### Tools and Technologies:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
@@ -37,55 +58,26 @@
 ### Connect with me:
 [![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@scriptamanent@poliversity.it)
 
-    </td>
-  </tr>
-  
-  <!-- Middle Section: Research Interests (spanning the left column) -->
-  <tr>
-    <td colspan="1" width="50%">
-
-### Bug Catcher
-Student of [42](https://youtu.be/7gWlz_nhPJk), Florence  
-Click [here](https://github.com/buggcatcher?tab=repositories) for my repos  
-
-### My Research Interest:
-
-🔐 **Encryption & Cryptography**
-- 🔑 Symmetric & Asymmetric Encryption
-- 🖼️ Steganography & Digital Signatures
-- 🔒 Zero-Knowledge Proofs
-
-🔍 **Metadata Analysis**
-- 📊 Data Pattern Recognition
-- 🎯 Anomaly Detection Systems
-- 🗃️ Digital Forensics
-
-🤖 **Robotics & Automation**
-- 🎛️ Control Systems
-- 🧠 Machine Learning Integration
-- 📡 Sensor Fusion
-
-⛓️ **Blockchain Technology**
-- 📦 Smart Contracts
-- 🔏 Consensus Mechanisms
-- 🌍 Distributed Systems
-
-    </td>
-
-    <!-- Keep the right section as is -->
-    <td colspan="1" align="center" width="50%">
-      <!-- The tools and technologies already cover this space -->
-    </td>
-  </tr>
-  
-  <!-- Bottom Section: Wide Nature Image -->
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true" alt="Pixel Art Wallpaper" width="100%" />
-    </td>
-  </tr>
+</td>
+</tr>
+<!-- New row for the image and most used languages -->
+<tr>
+  <td colspan="1" align="center" width="50%">
+    <img src="https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true" alt="Pixel Art Wallpaper" width="100%" />
+  </td>
+  <td colspan="1" align="center" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Default Theme" />
+  </td>
+</tr>
 </table>
 
+<!-- 
+----
+[<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
+[<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 
 <!-- 
