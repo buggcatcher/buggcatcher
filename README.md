@@ -1,7 +1,10 @@
 <table>
 <tr>
   <!-- Profile Image and Most Used Languages -->
-
+  <td width="50%" align="center">
+    <img src="https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true" alt="Bug Catcher Image" width="120" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Most Used Languages" />
+  </td>
   <!-- Right Column with Tools, Technologies, and Other Information -->
   <td width="50%">
 
@@ -36,9 +39,7 @@
 
 <!-- New row for Research Interests and the Pixel Art -->
 <tr>
-  <td width="50%" align="center">
-    <img src="https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true" alt="Bug Catcher Image" width="120" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Most Used Languages" />
+  <td colspan="1" width="50%">
 
 ### Bug Catcher
 Student of [42](https://youtu.be/7gWlz_nhPJk), Florence  
@@ -72,7 +73,6 @@ Click [here](https://github.com/buggcatcher?tab=repositories) for my repos
   </td>
 </tr>
 </table>
-
 
 
 <!-- 
