@@ -80,10 +80,7 @@
         </ul>
       </ul>
     </td>
-
-    <!-- blank -->
     <td colspan="1" align="center" valign="top" width="50%">
-      <!-- blank -->
     </td>
   </tr>
   <tr>
