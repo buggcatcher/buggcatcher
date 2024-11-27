@@ -1,33 +1,34 @@
-<table style="width: 100%; height: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse;">
+  <!-- Top Row: Top Left and Right Quadrants -->
   <tr>
-    <!-- Top Row: Top Left and Right Quadrants -->
-    <td style="width: 50%; height: 25%; vertical-align: top; border: 1px solid black;">
-      <!-- Content for Top Left (Languages + Bug Catcher Image) -->
+    <td style="width: 50%; vertical-align: top; border: 1px solid #000; height: 25%;">
+      <!-- Content for Top Left (Languages + Bug Catcher) -->
+      <p>Top Left</p>
     </td>
-    <td style="width: 50%; height: 25%; vertical-align: top; border: 1px solid black;">
+    <td style="width: 50%; vertical-align: top; border: 1px solid #000; height: 75%;">
       <!-- Content for Right (Tools & Technologies) -->
+      <p>Right</p>
     </td>
   </tr>
+  <!-- Middle Row: Middle Left Quadrant -->
   <tr>
-    <!-- Bottom Row: Middle Left Quadrant and Bottom Section -->
-    <td style="width: 50%; height: 50%; vertical-align: top; border: 1px solid black;">
+    <td style="width: 50%; vertical-align: top; border: 1px solid #000; height: 50%;">
       <!-- Content for Middle Left (Research Interest) -->
+      <p>Middle Left</p>
     </td>
-    <td style="width: 50%; height: 50%; vertical-align: top; border: 1px solid black;">
-      <!-- Content for Right (Tools & Technologies) -->
+    <td style="width: 50%; border: 1px solid #000; height: 50%;">
+      <!-- Empty cell to align with Right -->
     </td>
   </tr>
+  <!-- Bottom Row: Bottom Section -->
   <tr>
-    <!-- Bottom Section: Full-width -->
-    <td colspan="2" style="width: 100%; height: 25%; border: 1px solid black; text-align: center;">
-      <!-- Content for Pixel Art Wallpaper -->
+    <td colspan="2" style="border: 1px solid #000; text-align: center; height: 25%;">
+      <!-- Content for Bottom Section (Pixel Art Wallpaper) -->
+      <p>Bottom Section</p>
     </td>
   </tr>
 </table>
 
-
-</body>
-</html>
 
 
 <!-- 
