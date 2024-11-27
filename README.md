@@ -9,6 +9,38 @@
           <td align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Most Used Languages" />
           </td>
+              <td colspan="1" align="left" valign="top" width="50%">
+      <h3>Bug Catcher</h3>
+      <p>Student of <a href="https://youtu.be/7gWlz_nhPJk">42, Florence</a></p>
+      <p>Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos</p>
+      <h3>My Research Interest:</h3>
+      <ul>
+        <li>🔐 <strong>Encryption & Cryptography</strong></li>
+        <ul>
+          <li>🔑 Symmetric & Asymmetric Encryption</li>
+          <li>🖼️ Steganography & Digital Signatures</li>
+          <li>🔒 Zero-Knowledge Proofs</li>
+        </ul>
+        <li>🔍 <strong>Metadata Analysis</strong></li>
+        <ul>
+          <li>📊 Data Pattern Recognition</li>
+          <li>🎯 Anomaly Detection Systems</li>
+          <li>🗃️ Digital Forensics</li>
+        </ul>
+        <li>🤖 <strong>Robotics & Automation</strong></li>
+        <ul>
+          <li>🎛️ Control Systems</li>
+          <li>🧠 Machine Learning Integration</li>
+          <li>📡 Sensor Fusion</li>
+        </ul>
+        <li>⛓️ <strong>Blockchain Technology</strong></li>
+        <ul>
+          <li>📦 Smart Contracts</li>
+          <li>🔏 Consensus Mechanisms</li>
+          <li>🌍 Distributed Systems</li>
+        </ul>
+      </ul>
+  </tr>
         </tr>
       </table>
     </td>
@@ -50,38 +82,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="1" align="left" valign="top" width="50%">
-      <h3>Bug Catcher</h3>
-      <p>Student of <a href="https://youtu.be/7gWlz_nhPJk">42, Florence</a></p>
-      <p>Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos</p>
-      <h3>My Research Interest:</h3>
-      <ul>
-        <li>🔐 <strong>Encryption & Cryptography</strong></li>
-        <ul>
-          <li>🔑 Symmetric & Asymmetric Encryption</li>
-          <li>🖼️ Steganography & Digital Signatures</li>
-          <li>🔒 Zero-Knowledge Proofs</li>
-        </ul>
-        <li>🔍 <strong>Metadata Analysis</strong></li>
-        <ul>
-          <li>📊 Data Pattern Recognition</li>
-          <li>🎯 Anomaly Detection Systems</li>
-          <li>🗃️ Digital Forensics</li>
-        </ul>
-        <li>🤖 <strong>Robotics & Automation</strong></li>
-        <ul>
-          <li>🎛️ Control Systems</li>
-          <li>🧠 Machine Learning Integration</li>
-          <li>📡 Sensor Fusion</li>
-        </ul>
-        <li>⛓️ <strong>Blockchain Technology</strong></li>
-        <ul>
-          <li>📦 Smart Contracts</li>
-          <li>🔏 Consensus Mechanisms</li>
-          <li>🌍 Distributed Systems</li>
-        </ul>
-      </ul>
-  </tr>
+
   <tr>
     <td colspan="2" align="center">
       <img src="https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true" alt="Pixel Art Wallpaper" width="100%" />
