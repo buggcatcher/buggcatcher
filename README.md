@@ -49,7 +49,7 @@
       </a>
       <br>
       <br>
-      <div style="position: absolute; padding-left: 500px;"> 
+      <div style="position: absolute; padding-left: 42px;"> 
         <img src="https://github.com/buggcatcher/BOX/blob/main/weedle.gif?raw=true" alt="Weedle" />
       </div>
     </td>
