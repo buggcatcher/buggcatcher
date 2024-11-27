@@ -1,38 +1,11 @@
 <table>
 <tr>
-  <td width="50%">
-
-![Bug Catcher Image](https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true)  
-  <td colspan="1" align="center" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Default Theme" />
+  <!-- Profile Image and Most Used Languages -->
+  <td width="50%" align="center">
+    <img src="https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true" alt="Bug Catcher Image" width="120" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Most Used Languages" />
   </td>
-### [Bug Catcher](https://images.nationalgeographic.org/image/upload/v1638888858/EducationHub/photos/computer-bug.jpg)
-Student of [42](https://youtu.be/7gWlz_nhPJk), Florence  
-Click [here](https://github.com/buggcatcher?tab=repositories) for my repos  
-
-### My Research Interest:
-
-🔐 **Encryption & Cryptography**
-- 🔑 Symmetric & Asymmetric Encryption
-- 🖼️ Steganography & Digital Signatures
-- 🔒 Zero-Knowledge Proofs
-
-🔍 **Metadata Analysis**
-- 📊 Data Pattern Recognition
-- 🎯 Anomaly Detection Systems
-- 🗃️ Digital Forensics
-
-🤖 **Robotics & Automation**
-- 🎛️ Control Systems
-- 🧠 Machine Learning Integration
-- 📡 Sensor Fusion
-
-⛓️ **Blockchain Technology**
-- 📦 Smart Contracts
-- 🔏 Consensus Mechanisms
-- 🌍 Distributed Systems
-
-  </td>
+  <!-- Right Column with Tools, Technologies, and Other Information -->
   <td width="50%">
 
 ### Tools and Technologies:
@@ -61,16 +34,46 @@ Click [here](https://github.com/buggcatcher?tab=repositories) for my repos
 ### Connect with me:
 [![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@scriptamanent@poliversity.it)
 
-</td>
+  </td>
 </tr>
-<!-- New row for the image and most used languages -->
+
+<!-- New row for Research Interests and the Pixel Art -->
 <tr>
+  <td colspan="1" width="50%">
+
+### Bug Catcher
+Student of [42](https://youtu.be/7gWlz_nhPJk), Florence  
+Click [here](https://github.com/buggcatcher?tab=repositories) for my repos  
+
+### My Research Interest:
+
+🔐 **Encryption & Cryptography**
+- 🔑 Symmetric & Asymmetric Encryption
+- 🖼️ Steganography & Digital Signatures
+- 🔒 Zero-Knowledge Proofs
+
+🔍 **Metadata Analysis**
+- 📊 Data Pattern Recognition
+- 🎯 Anomaly Detection Systems
+- 🗃️ Digital Forensics
+
+🤖 **Robotics & Automation**
+- 🎛️ Control Systems
+- 🧠 Machine Learning Integration
+- 📡 Sensor Fusion
+
+⛓️ **Blockchain Technology**
+- 📦 Smart Contracts
+- 🔏 Consensus Mechanisms
+- 🌍 Distributed Systems
+
+  </td>
   <td colspan="1" align="center" width="50%">
     <img src="https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true" alt="Pixel Art Wallpaper" width="100%" />
   </td>
-
 </tr>
 </table>
+
 
 <!-- 
 ----
