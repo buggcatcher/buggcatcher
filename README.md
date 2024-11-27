@@ -1,44 +1,92 @@
-<table style="width: 100%; border-collapse: collapse; height: 100vh;">
-  <!-- Top Row: Top Left and Right Quadrants -->
+<table>
+  <!-- Top Section: Profile and Most Used Languages on the left, Tools and Technologies on the right -->
   <tr>
-    <td style="width: 50%; vertical-align: top; border: 1px solid #000; height: 25%;">
-      <!-- Content for Top Left (Languages + Bug Catcher) -->
+    <!-- Left Column: Profile Image + Most Used Languages -->
+    <td width="50%" align="center">
       <img src="https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true" alt="Bug Catcher Image" width="120" />
       <br />
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Most Used Languages" />
     </td>
-    <td style="width: 50%; vertical-align: right; border: 1px solid #000; height: 75%;">
-      <!-- Content for Right (Tools & Technologies) -->
-      <h3>Tools and Technologies</h3>
-      <p>Details about tools, languages, and technologies used</p>
+    
+    <!-- Right Column: Tools and Technologies -->
+    <td width="50%">
+
+### Tools and Technologies:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+### Database:
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+### IDEs:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+
+### Languages:
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+
+### Open to:
+- 💡 any collaboration work
+- 🔧 robotics projects
+- 🎓 research internships
+- 🧑‍💼 job opportunities 
+- 🚀 startup collaborations
+
+### Connect with me:
+[![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@scriptamanent@poliversity.it)
+
     </td>
   </tr>
   
-  <!-- Middle Row: Middle Left Quadrant -->
+  <!-- Middle Section: Research Interests (spanning the left column) -->
   <tr>
-    <td style="width: 50%; vertical-align: top; border: 1px solid #000; height: 50%;">
-      <!-- Content for Middle Left (Research Interest) -->
-      <h3>Research Interests</h3>
-      <ul>
-        <li>Encryption & Cryptography</li>
-        <li>Metadata Analysis</li>
-        <li>Robotics & Automation</li>
-        <li>Blockchain Technology</li>
-      </ul>
+    <td colspan="1" width="50%">
+
+### Bug Catcher
+Student of [42](https://youtu.be/7gWlz_nhPJk), Florence  
+Click [here](https://github.com/buggcatcher?tab=repositories) for my repos  
+
+### My Research Interest:
+
+🔐 **Encryption & Cryptography**
+- 🔑 Symmetric & Asymmetric Encryption
+- 🖼️ Steganography & Digital Signatures
+- 🔒 Zero-Knowledge Proofs
+
+🔍 **Metadata Analysis**
+- 📊 Data Pattern Recognition
+- 🎯 Anomaly Detection Systems
+- 🗃️ Digital Forensics
+
+🤖 **Robotics & Automation**
+- 🎛️ Control Systems
+- 🧠 Machine Learning Integration
+- 📡 Sensor Fusion
+
+⛓️ **Blockchain Technology**
+- 📦 Smart Contracts
+- 🔏 Consensus Mechanisms
+- 🌍 Distributed Systems
+
     </td>
-    <td style="width: 50%; border: 1px solid #000; height: 50%;">
-      <!-- Empty cell to maintain alignment with Right -->
+
+    <!-- Keep the right section as is -->
+    <td colspan="1" align="center" width="50%">
+      <!-- The tools and technologies already cover this space -->
     </td>
   </tr>
   
-  <!-- Bottom Row: Bottom Section -->
+  <!-- Bottom Section: Wide Nature Image -->
   <tr>
-    <td colspan="2" style="border: 1px solid #000; text-align: center; height: 25%;">
-      <!-- Content for Bottom Section (Pixel Art Wallpaper) -->
+    <td colspan="2" align="center">
       <img src="https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true" alt="Pixel Art Wallpaper" width="100%" />
     </td>
   </tr>
 </table>
+
+
 
 
 
