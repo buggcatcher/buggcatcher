@@ -1,18 +1,18 @@
-<table style="width: 100%; border-collapse: collapse;">
+<table>
   <tr>
-    <td style="width: 50%; vertical-align: top; border: 1px solid black;">
-      <table style="width: 100%; border-collapse: collapse;">
+    <td width="50%" align="center">
+      <table>
         <tr>
-          <td style="width: 50%; text-align: center;">
+          <td align="center">
             <img src="https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true" alt="Bug Catcher Image" width="120" />
           </td>
-          <td style="width: 50%; text-align: center;">
+          <td align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Most Used Languages" />
           </td>
         </tr>
       </table>
     </td>
-    <td style="width: 50%; vertical-align: top; border: 1px solid black;">
+    <td width="50%" align="left">
       <h3>Tools and Technologies:</h3>
       <p>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -50,7 +50,7 @@
     </td>
   </tr>
   <tr>
-    <td style="width: 50%; vertical-align: top; border: 1px solid black;">
+    <td colspan="1" align="left" valign="top" width="50%">
       <h3>Bug Catcher</h3>
       <p>Student of <a href="https://youtu.be/7gWlz_nhPJk">42, Florence</a></p>
       <p>Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos</p>
@@ -82,10 +82,11 @@
         </ul>
       </ul>
     </td>
-    <td style="width: 50%; border: 1px solid black;"></td>
+    <td colspan="1" align="center" valign="top" width="50%">
+    </td>
   </tr>
   <tr>
-    <td colspan="2" style="border: 1px solid black; text-align: center;">
+    <td colspan="2" align="center">
       <img src="https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true" alt="Pixel Art Wallpaper" width="100%" />
     </td>
   </tr>
