@@ -51,7 +51,7 @@
     </a>
     <br>
     <br>
-    <div style="position: absolute; bottom: 0; right: 0; margin: 0;">
+    <div style="position: absolute; bottom: 10; right: 10; margin: 10;">
          <img src="https://github.com/buggcatcher/BOX/blob/main/weedle.gif?raw=true" alt="Weedle" />
     </div>
   </td>
