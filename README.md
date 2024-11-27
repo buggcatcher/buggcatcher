@@ -1,18 +1,22 @@
 <table>
+  <!-- Top Row: Most Used Languages and Profile Image (Up Left) + Tools and Technologies (Up Right) -->
   <tr>
-    <td colspan="1" width="50%" align="left" valign="top">
+    <!-- Up Left: Most Used Languages and Profile Image -->
+    <td width="50%" align="center">
       <table>
         <tr>
-          <td align="center" valign="top">
+          <td align="center">
             <img src="https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true" alt="Bug Catcher Image" width="120" />
           </td>
-          <td align="center" valign="top">
+          <td align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Most Used Languages" />
           </td>
         </tr>
       </table>
     </td>
-    <td colspan="1" width="50%" align="left" valign="top">
+
+    <!-- Up Right: Tools and Technologies -->
+    <td width="50%" align="left">
       <h3>Tools and Technologies:</h3>
       <p>
         ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
@@ -47,6 +51,8 @@
       </p>
     </td>
   </tr>
+
+  <!-- Middle Row: Research Interest -->
   <tr>
     <td colspan="1" align="left" valign="top" width="50%">
       <h3>Bug Catcher</h3>
@@ -80,16 +86,20 @@
         </ul>
       </ul>
     </td>
+
+    <!-- Middle Right: Leave blank -->
     <td colspan="1" align="center" valign="top" width="50%">
+      <!-- Intentionally left blank -->
     </td>
   </tr>
+
+  <!-- Bottom Section: Wide Nature Image -->
   <tr>
     <td colspan="2" align="center">
       <img src="https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true" alt="Pixel Art Wallpaper" width="100%" />
     </td>
   </tr>
 </table>
-
 
 
 <!-- 
