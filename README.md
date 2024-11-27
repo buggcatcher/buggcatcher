@@ -45,19 +45,14 @@
     <br>
     <h3>Connect with me:</h3>
     <a href="https://mastodon.uno/@scriptamanent@poliversity.it">
-      <table>
-        <tr>
-          <td>
-            <img src="https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
-          </td>
-          <td>
-            <img src="https://github.com/buggcatcher/BOX/blob/main/weedle.gif?raw=true" alt="Weedle" />
-          </td>
-        </tr>
-      </table>
+      <img src="https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
+      <br>
+       <br>
+        <br>
+        <br>
+       <br>
+      <br>
     </a>
-    <br>
-    <br>
   </td>
 </tr>
 <tr>
@@ -66,6 +61,11 @@
   </td>
 </tr>
 </table>
+
+
+
+
+
 
 <!-- 
 ----
