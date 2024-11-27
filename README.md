@@ -6,35 +6,11 @@
     <h3><a href="https://images.nationalgeographic.org/image/upload/v1638888858/EducationHub/photos/computer-bug.jpg">Bug Catcher</a></h3>
     Student of <a href="https://www.42network.org/42-schools/">42</a>, Florence. Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos  
     <h3>My Research Interest:</h3>
-    <ul>
-      <li>🔐 <strong>Encryption & Cryptography</strong>
-        <ul>
-          <li>🔑 Symmetric & Asymmetric Encryption</li>
-          <li>🖼️ Steganography & Digital Signatures</li>
-          <li>🔒 Zero-Knowledge Proofs</li>
-        </ul>
-      </li>
-      <li>🔍 <strong>Metadata Analysis</strong>
-        <ul>
-          <li>📊 Data Pattern Recognition</li>
-          <li>🎯 Anomaly Detection Systems</li>
-          <li>🗃️ Digital Forensics</li>
-        </ul>
-      </li>
-      <li>🤖 <strong>Robotics & Automation</strong>
-        <ul>
-          <li>🎛️ Control Systems</li>
-          <li>🧠 Machine Learning Integration</li>
-          <li>📡 Sensor Fusion</li>
-        </ul>
-      </li>
-      <li>⛓️ <strong>Blockchain Technology</strong>
-        <ul>
-          <li>📦 Smart Contracts</li>
-          <li>🔏 Consensus Mechanisms</li>
-          <li>🌍 Distributed Systems</li>
-        </ul>
-      </li>
+    <ul style="font-size: 14px;">
+      <li>🔐 <strong>Encryption & Cryptography</strong></li>
+      <li>🔍 <strong>Metadata Analysis</strong></li>
+      <li>🤖 <strong>Robotics & Automation</strong></li>
+      <li>⛓️ <strong>Blockchain Technology</strong></li>
     </ul>
   </td>
   <td width="40%">
@@ -51,7 +27,7 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
     <h3>Open to:</h3>
-    <ul>
+    <ul style="font-size: 14px;">
       <li>💡 Any collaboration work</li>
       <li>🔧 Robotics projects</li>
       <li>🎓 Research internships</li>
@@ -70,8 +46,6 @@
   </td>
 </tr>
 </table>
-
-
 
 
 
