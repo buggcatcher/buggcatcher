@@ -1,12 +1,15 @@
 <table>
-<tr>
-  <!-- Profile Image and Most Used Languages -->
-  <td width="50%" align="center">
-    <img src="https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true" alt="Bug Catcher Image" width="120" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Most Used Languages" />
-  </td>
-  <!-- Right Column with Tools, Technologies, and Other Information -->
-  <td width="50%">
+  <!-- Top Section: Profile and Most Used Languages on the left, Tools and Technologies on the right -->
+  <tr>
+    <!-- Left Column: Profile Image + Most Used Languages -->
+    <td width="50%" align="center">
+      <img src="https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true" alt="Bug Catcher Image" width="120" />
+      <br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Most Used Languages" />
+    </td>
+    
+    <!-- Right Column: Tools and Technologies -->
+    <td width="50%">
 
 ### Tools and Technologies:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
@@ -34,12 +37,12 @@
 ### Connect with me:
 [![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@scriptamanent@poliversity.it)
 
-  </td>
-</tr>
-
-<!-- New row for Research Interests and the Pixel Art -->
-<tr>
-  <td colspan="1" width="50%">
+    </td>
+  </tr>
+  
+  <!-- Middle Section: Research Interests (spanning the left column) -->
+  <tr>
+    <td colspan="1" width="50%">
 
 ### Bug Catcher
 Student of [42](https://youtu.be/7gWlz_nhPJk), Florence  
@@ -67,12 +70,22 @@ Click [here](https://github.com/buggcatcher?tab=repositories) for my repos
 - 🔏 Consensus Mechanisms
 - 🌍 Distributed Systems
 
-  </td>
-  <td colspan="1" align="center" width="50%">
-    <img src="https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true" alt="Pixel Art Wallpaper" width="100%" />
-  </td>
-</tr>
+    </td>
+
+    <!-- Keep the right section as is -->
+    <td colspan="1" align="center" width="50%">
+      <!-- The tools and technologies already cover this space -->
+    </td>
+  </tr>
+  
+  <!-- Bottom Section: Wide Nature Image -->
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true" alt="Pixel Art Wallpaper" width="100%" />
+    </td>
+  </tr>
 </table>
+
 
 
 <!-- 
