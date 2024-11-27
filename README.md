@@ -50,7 +50,7 @@
       <br>
       <br>
       <div style="position: absolute; bottom: 0; right: 0; padding: 10px;">
-        <img src="https://github.com/buggcatcher/BOX/blob/main/weedle.gif?raw=true" alt="Weedle" width="80px" />
+        <img src="https://github.com/buggcatcher/BOX/blob/main/weedle.gif?raw=true" alt="Weedle" />
       </div>
     </td>
   </tr>
