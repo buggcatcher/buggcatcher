@@ -12,6 +12,15 @@
       <li>🤖 <strong>Robotics & Automation</strong></li>
       <li>⛓️ <strong>Blockchain Technology</strong></li>
     </ul>
+    <h3>Open to:</h3>
+    <ul style="font-size: 14px;">
+      <li>💡 Any collaboration work</li>
+      <li>🔧 Robotics projects</li>
+      <li>🎓 Research internships</li>
+      <li>🧑‍💼 Job opportunities</li>
+      <li>🚀 Startup collaborations</li>
+    </ul>
+    <br>
   </td>
   <td width="40%">
     <h3>Tools and Technologies:</h3>
@@ -26,15 +35,6 @@
     <h3>Languages:</h3>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
-    <h3>Open to:</h3>
-    <ul style="font-size: 14px;">
-      <li>💡 Any collaboration work</li>
-      <li>🔧 Robotics projects</li>
-      <li>🎓 Research internships</li>
-      <li>🧑‍💼 Job opportunities</li>
-      <li>🚀 Startup collaborations</li>
-    </ul>
-    <br> <!-- Empty line added here -->
     <h3>Connect with me:</h3>
     <a href="https://mastodon.uno/@scriptamanent@poliversity.it">
       <img src="https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
