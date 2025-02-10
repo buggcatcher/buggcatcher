@@ -47,10 +47,10 @@
       <br>
       <h3>Connect with me:</h3>
       <div style="position: relative;">
-        <a href="https://mastodon.uno/@scriptamanent@poliversity.it">
+        <a href="https://mastodon.uno/@scriptamanent@poliversity.it" style="outline: none;">
           <img src="https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
         </a>
-        <a href="https://www.linkedin.com/in/marko-ilincic-891653350/">
+        <a href="https://www.linkedin.com/in/marko-ilincic-891653350/" style="outline: none;">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
       </div>
