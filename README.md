@@ -10,17 +10,18 @@
       <h3>My Research Interest:</h3>
       <ul style="font-size: 14px; list-style-type: none;">
         <li>🔐 <strong>Encryption & Cryptography</strong></li>
-        <li>🔍 <strong>Metadata Analysis</strong></li>
-        <li>🤖 <strong>Robotics & Automation</strong></li>
+        <li>🔍 <strong>Metadata and Malware Analysis</strong></li>
+        <li>🤖 <strong>OS/Embedded Security</strong></li>
+        <li>🎓 <strong>Robotics & Automation<strong></li>
         <li>⛓️ <strong>Blockchain Technology</strong></li>
       </ul>
       <h3>Open to:</h3>
       <ul style="font-size: 14px; list-style-type: none;">
-        <li>💡 Any collaboration work</li>
-        <li>🔧 Robotics projects</li>
-        <li>🎓 Research internships</li>
-        <li>🧑‍💼 Job opportunities</li>
-        <li>🚀 Startup collaborations</li>
+          <li>🧑‍💼 <strong>Cybersecurity Job opportunities</strong></li>
+          <li>🎓 <strong>Security Research Internships</strong></li>
+          <li>💡 <strong>Startup collaborations</strong> (Security/Robotics)</li>
+          <li>🚀 <strong>Open-source security projects</strong></li>
+          <li>🔧 <strong>Robotics projects</strong> (especially security-related)</li>
       </ul>
       <br>
     </td>
