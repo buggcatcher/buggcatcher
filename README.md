@@ -9,19 +9,19 @@
       Student of <a href="https://www.42network.org/42-schools/">42</a>, Florence. Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos  
       <h3>My Research Interest:</h3>
       <ul style="font-size: 14px; list-style-type: none;">
-        <li>🔐 <strong>Encryption & Cryptography</strong></li>
-        <li>🔍 <strong>Metadata and Malware Analysis</strong></li>
-        <li>🤖 <strong>OS/Embedded Security</strong></li>
-        <li>🎓 <strong>Robotics & Automation<strong></li>
-        <li>⛓️ <strong>Blockchain Technology</strong></li>
-      </ul>
-      <h3>Open to:</h3>
-      <ul style="font-size: 14px; list-style-type: none;">
-          <li>🧑‍💼 <strong>Cybersecurity Job opportunities</strong></li>
-          <li>🎓 <strong>Security Research Internships</strong></li>
-          <li>💡 <strong>Startup collaborations</strong> (Security/Robotics)</li>
-          <li>🚀 <strong>Open-source security projects</strong></li>
-          <li>🔧 <strong>Robotics projects</strong> (especially security-related)</li>
+<li>🔐 Encryption & Cryptography</li>
+<li>🔍 Metadata and Malware Analysis</li>
+<li>🤖 OS/Embedded Security</li>
+<li>🎓 Robotics & Automation</li>
+<li>⛓️ Blockchain Technology</li>
+</ul>
+<h3>Open to:</h3>
+<ul style="font-size: 14px; list-style-type: none;">
+    <li>🧑‍💼 Cybersecurity Job opportunities</li>
+    <li>🎓 Security Research Internships</li>
+    <li>💡 Startup collaborations (Security/Robotics)</li>
+    <li>🚀 Open-source security projects</li>
+    <li>🔧 Robotics projects (especially security-related)</li>
       </ul>
       <br>
     </td>
