@@ -37,11 +37,6 @@
       <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
       <br>
       <br>
-      <h3>Languages:</h3>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
-      <br>
-      <br>
       <h3>Connect with me:</h3>
       <div style="position: relative;">
         <a href="https://mastodon.uno/@scriptamanent@poliversity.it">
