@@ -15,7 +15,7 @@
 </ul>
 <h3>Open to:</h3>
 <ul style="font-size: 14px; list-style-type: none;">
-    <li>🎓 Cybersecurity/Infosec Research Internships</li>
+    <li>🎓 Cybersecurity/Infosec Research Jobs and Internships</li>
     <li>💡 Startup collaborations</li>
     <li>🚀 Open-source security projects</li>
       </ul>
