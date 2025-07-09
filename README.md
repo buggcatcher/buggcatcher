@@ -11,16 +11,14 @@
 <li>🔐 Encryption & Cryptography</li>
 <li>🔍 Metadata and Malware Analysis</li>
 <li>🤖 OS/Embedded Security</li>
-<li>🎓 Robotics & Automation</li>
 <li>⛓️ Blockchain Technology</li>
 </ul>
 <h3>Open to:</h3>
 <ul style="font-size: 14px; list-style-type: none;">
     <li>🧑‍💼 Cybersecurity Job opportunities</li>
     <li>🎓 Security Research Internships</li>
-    <li>💡 Startup collaborations (Security/Robotics)</li>
+    <li>💡 Startup collaborations</li>
     <li>🚀 Open-source security projects</li>
-    <li>🔧 Robotics projects (especially security-related)</li>
       </ul>
       <br>
     </td>
