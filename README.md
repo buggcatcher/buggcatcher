@@ -8,7 +8,6 @@
       &nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" style="display: block; margin: 0 auto;"/>
       <br>
-      <br>
       <h3>My Research Interest:</h3>
       <ul style="font-size: 14px; list-style-type: none;">
 <li>    Encryption & Cryptography</li>
@@ -25,6 +24,7 @@
       <br>
     </td>
     <td width="40%" style="position: relative;">
+      <br>
       <h3>Tools and Technologies:</h3>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
