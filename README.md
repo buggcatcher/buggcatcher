@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center" width="100%">
-      <img src="https://github.com/buggcatcher/BOX/blob/main/pixel_art-wallpaper-3440x1440.jpg?raw=true" alt="Pixel Art Wallpaper" width="100%" />
+      <img src="https://github.com/buggcatcher/BOX/blob/main/grass.png?raw=true" alt="green grass" width="100%" />
     </td>
   </tr>
 </table>
