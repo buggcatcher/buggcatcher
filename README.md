@@ -2,7 +2,6 @@
 <table style="width: 100%;">
   <tr>
     <td width="60%" style="vertical-align: top;">
-      <br>
       <p>System-level C Developer at <a href="https://www.42network.org/42-schools/">42</a>, Florence. Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos.</p>
       <br>
       &nbsp;&nbsp;&nbsp;
