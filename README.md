@@ -2,11 +2,11 @@
 <table style="width: 100%;">
   <tr>
     <td width="60%" style="vertical-align: top;">
+      <p>System-level C Developer at <a href="https://www.42network.org/42-schools/">42</a>, Florence. Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos.</p>
     &nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" style="display: block; margin: 0 auto;"/>
       <br>
       <br>
-      <p>System-level C Developer at <a href="https://www.42network.org/42-schools/">42</a>, Florence. Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos.</p>
       <h3>My Research Interest:</h3>
       <ul style="font-size: 14px; list-style-type: none;">
 <li>    Encryption & Cryptography</li>
