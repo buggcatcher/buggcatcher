@@ -9,16 +9,16 @@
       <p>System-level C Developer at <a href="https://www.42network.org/42-schools/">42</a>, Florence. Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos.</p>
       <h3>My Research Interest:</h3>
       <ul style="font-size: 14px; list-style-type: none;">
-<li>🔐 Encryption & Cryptography</li>
-<li>🔍 Metadata and Malware Analysis</li>
-<li>🤖 OS/Embedded Security</li>
-<li>⛓️ Blockchain Technology</li>
+<li>    Encryption & Cryptography</li>
+<li>    Metadata and Malware Analysis</li>
+<li>    OS/Embedded Security</li>
+<li>    Blockchain Technology</li>
 </ul>
 <h3>Open to:</h3>
 <ul style="font-size: 14px; list-style-type: none;">
-    <li>🎓 Cybersecurity/Infosec Research Jobs and Internships</li>
-    <li>💡 Startup collaborations</li>
-    <li>🚀 Open-source security projects</li>
+    <li>    Cybersecurity/Infosec Research Jobs and Internships</li>
+    <li>    Startup collaborations</li>
+    <li>    Open-source security projects</li>
       </ul>
       <br>
     </td>
