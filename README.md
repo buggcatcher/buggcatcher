@@ -45,14 +45,14 @@
       </div>
       <br>
       <br>
-      <div style="position: fixed; bottom: 10px; right: 10px;">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/buggcatcher/BOX/blob/main/weedle.gif?raw=true" alt="Weedle" />
+      <div style="position: relative; width: fit-content;">
+        <img src="https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true" 
+             alt="Bug Catcher" 
+             style="display: block;" />
+        <img src="https://github.com/buggcatcher/BOX/blob/main/weedle.gif?raw=true" 
+             alt="Weedle" 
+             style="position: absolute; bottom: 0; left: 50%; transform: translateX(-40%); z-index: 1;" />
       </div>
-         <img src="https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true" alt="Bug Catcher" /> 
     </td>
   </tr>
   <tr>
