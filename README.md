@@ -45,6 +45,7 @@
       <br>
       <br>
       <div style="position: relative; width: fit-content;">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://github.com/buggcatcher/BOX/blob/main/weedle.gif?raw=true" 
              alt="Weedle" 
              style="position: absolute; bottom: 0; left: 50%; transform: translateX(-40%); z-index: 1;" />
