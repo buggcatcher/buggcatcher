@@ -25,6 +25,7 @@
     </td>
     <td width="40%" style="position: relative;">
       <br>
+      <br>
       <h3>Tools and Technologies:</h3>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
