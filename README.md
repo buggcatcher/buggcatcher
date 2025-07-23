@@ -47,11 +47,11 @@
       <br>
       <div style="position: relative; width: fit-content;">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/buggcatcher/BOX/blob/main/weedle.gif?raw=true" 
+        <img src="https://github.com/buggcatcher/public/blob/main/weedle.gif?raw=true" 
              alt="Weedle" 
              style="position: absolute; bottom: 0; left: 50%; transform: translateX(-40%); z-index: 1;" />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/buggcatcher/BOX/blob/main/bugcatcher.png?raw=true" 
+        <img src="https://github.com/buggcatcher/public/blob/main/bugcatcher.png?raw=true" 
              alt="Bug Catcher" 
              style="display: block;" />
       </div>
@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center" width="100%">
-      <img src="https://github.com/buggcatcher/BOX/blob/main/grass.png?raw=true" alt="green grass" width="100%" />
+      <img src="https://github.com/buggcatcher/public/blob/main/grass.png?raw=true" alt="green grass" width="100%" />
     </td>
   </tr>
 </table>
