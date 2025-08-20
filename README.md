@@ -3,6 +3,8 @@
   <tr>
     <td width="60%" style="vertical-align: top;">
       <img src="https://raw.githubusercontent.com/buggcatcher/public/main/various/matrix.gif" alt="Matrix"/>
+      <br>
+      <br>
       <p>System-level C Developer at <a href="https://www.42network.org/42-schools/">42</a>, Florence. Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos.</p>
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
