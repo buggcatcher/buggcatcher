@@ -5,7 +5,7 @@
       <br>
       <p>System-level C Developer at <a href="https://www.42network.org/42-schools/">42</a>, Florence. Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos.</p>
       <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buggcatcher&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" style="display: block; margin: 0 auto;"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=buggcatcher&theme=github)
       <br>
       <h3>My Research Interest:</h3>
       <ul style="font-size: 14px; list-style-type: none;">
