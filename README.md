@@ -56,7 +56,7 @@
         <img src="https://github.com/buggcatcher/public/blob/main/weedle.gif?raw=true" 
              alt="Weedle" 
              style="position: absolute; bottom: 0; left: 50%; transform: translateX(-40%); z-index: 1;" />
-        <img src="https://github.com/buggcatcher/public/blob/main/bugcatcher.png?raw=true" 
+        <img src="https://github.com/buggcatcher/public/blob/main/small_bugcatcher.png?raw=true" 
              alt="Bug Catcher" 
              style="display: block;" />
       </div>
