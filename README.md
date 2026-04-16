@@ -21,7 +21,6 @@
       <ul style="font-size: 14px; list-style-type: none;">
         <li>    Sys Dev Research/Job/Internship</li>
         <li>    Low-level security projects</li>
-        <li>    Coding Collaborations</li>
       </ul>
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
