@@ -1,14 +1,11 @@
 <table style="width: 100%;">
-  <!-- HEADER: rettangolo full-width -->
   <tr>
     <td colspan="2" align="center" width="100%">
       <p>System-level C Developer at <a href="https://www.42network.org/42-schools/">42</a>, Florence. Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos.</p>
     </td>
   </tr>
-  <!-- CORPO: colonna sinistra + colonna destra -->
   <tr>
     <td width="60%" style="vertical-align: top;">
-      <br>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=buggcatcher&theme=github_dark" alt="Top languages by repo badge"/>      
       <br>
       <h3>My Research Interest:</h3>
