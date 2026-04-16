@@ -11,15 +11,15 @@
       <h3>My Research Interest:</h3>
       <ul style="font-size: 14px; list-style-type: none;">
         <li>    Encryption & Cryptography</li>
-        <li>    Malware Analysis</li>
+        <li>    Software Analysis</li>
         <li>    OS/Embedded Security</li>
         <li>    Blockchain Technology</li>
       </ul>
       <h3>Open to:</h3>
       <ul style="font-size: 14px; list-style-type: none;">
-        <li>    Dev Research/Job/Internship</li>
+        <li>    Sys Dev Research/Job/Internship</li>
         <li>    Low-level security projects</li>
-        <li>    Collaborative coding</li>
+        <li>    Coding Collaborations</li>
       </ul>
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
