@@ -6,7 +6,6 @@
   </tr>
   <tr>
     <td width="60%" style="vertical-align: top;">
-      <br>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=buggcatcher&theme=github_dark" alt="Top languages by repo badge"/>      
       <br>
       <h3>My Research Interest:</h3>
@@ -18,8 +17,9 @@
       </ul>
       <h3>Open to:</h3>
       <ul style="font-size: 14px; list-style-type: none;">
-        <li>    Cybersecurity/Infosec Research Jobs and Internships</li>
-        <li>    Low-level open-source security projects</li>
+        <li>    Dev Research/Job/Internship</li>
+        <li>    Low-level security projects</li>
+        <li>    Collaborative coding</li>
       </ul>
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
