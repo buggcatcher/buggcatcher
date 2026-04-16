@@ -6,6 +6,7 @@
   </tr>
   <tr>
     <td width="60%" style="vertical-align: top;">
+      <br>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=buggcatcher&theme=github_dark" alt="Top languages by repo badge"/>      
       <br>
       <h3>My Research Interest:</h3>
