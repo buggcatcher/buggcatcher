@@ -1,23 +1,27 @@
-
 <table style="width: 100%;">
+  <!-- HEADER: rettangolo full-width -->
+  <tr>
+    <td colspan="2" align="center" width="100%">
+      <p>System-level C Developer at <a href="https://www.42network.org/42-schools/">42</a>, Florence. Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos.</p>
+    </td>
+  </tr>
+  <!-- CORPO: colonna sinistra + colonna destra -->
   <tr>
     <td width="60%" style="vertical-align: top;">
-      <br>
-      <p>System-level C Developer at <a href="https://www.42network.org/42-schools/">42</a>, Florence. Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos.</p>
       <br>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=buggcatcher&theme=github_dark" alt="Top languages by repo badge"/>      
       <br>
       <h3>My Research Interest:</h3>
       <ul style="font-size: 14px; list-style-type: none;">
-<li>    Encryption & Cryptography</li>
-<li>    Malware Analysis</li>
-<li>    OS/Embedded Security</li>
-<li>    Blockchain Technology</li>
-</ul>
-<h3>Open to:</h3>
-<ul style="font-size: 14px; list-style-type: none;">
-    <li>    Cybersecurity/Infosec Research Jobs and Internships</li>
-    <li>    Low-level open-source security projects</li>
+        <li>    Encryption & Cryptography</li>
+        <li>    Malware Analysis</li>
+        <li>    OS/Embedded Security</li>
+        <li>    Blockchain Technology</li>
+      </ul>
+      <h3>Open to:</h3>
+      <ul style="font-size: 14px; list-style-type: none;">
+        <li>    Cybersecurity/Infosec Research Jobs and Internships</li>
+        <li>    Low-level open-source security projects</li>
       </ul>
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,8 +32,6 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td width="40%" style="position: relative;">
-      <br>
-      <br>
       <h3>Tools and Technologies:</h3>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -52,7 +54,7 @@
       <br>
       <br>
       <div style="position: relative; width: fit-content;">
-      &nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://github.com/buggcatcher/public/blob/main/weedle.gif?raw=true" 
              alt="Weedle" 
              style="position: absolute; bottom: 0; left: 50%; transform: translateX(-40%); z-index: 1;" />
