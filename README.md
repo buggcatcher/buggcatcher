@@ -22,7 +22,6 @@
         <li>    Sys Dev Research/Job/Internship</li>
         <li>    Low-level security projects</li>
         <li>    Bug Bunties</li>
-
       </ul>
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
