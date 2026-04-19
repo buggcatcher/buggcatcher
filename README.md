@@ -1,9 +1,7 @@
 <table style="width: 100%;">
   <tr>
     <td colspan="2" align="center" width="100%">
-      <img src="https://placehold.co/1x1/00000000/00000000.png" height="4"/>
       <p>System-level C Developer at <a href="https://www.42network.org/42-schools/">42</a>, Florence.  Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos.</p>
-      <img src="https://placehold.co/1x1/00000000/00000000.png" height="4"/>
     </td>
   </tr>
   <tr>
