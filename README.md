@@ -1,6 +1,6 @@
 <table style="width: 100%;">
   <tr>
-    <td colspan="2" align="center" width="100%">
+    <td colspan="2" align="center" width="100%" height="42">
       <p>System-level C Developer at <a href="https://www.42network.org/42-schools/">42</a>, Florence.  Click <a href="https://github.com/buggcatcher?tab=repositories">here</a> for my repos.</p>
     </td>
   </tr>
